@@ -2,13 +2,17 @@
 
 Meu nome é Marya Ryta Rocha 
 
--Estou estudando no [Alura] (https://www.alura.com .br)
+-Estou estudando na [Alura] (https://www.alura.com.br)
+
 -Estou me desenvolvendo na linguagem JavaScript
--Utilizo esses espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos 
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📫
 
-00001130319362sp@al.educacao.sp.gov.br
+alurastartestudante@email.com
+
+@alurastartestudante
 
 ![](https://media1.tenor.com/m/QMKkSdLbCHwAAAAC/monster-high-g3-g3-monster-high.gif)
 
